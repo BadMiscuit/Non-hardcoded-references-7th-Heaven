@@ -7,7 +7,7 @@
 
 # 7th Heaven
 
-Mod manager for Final Fantasy VII PC.
+Ultimate 🤡 mod manager for Final Fantasy VII PC.
 
 ## Introduction
 
